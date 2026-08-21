@@ -54,5 +54,5 @@ Created as part of the **Red Flame Studio** development project.
 
 ## Contact
 
-For collaboration, technical questions, or a project walkthrough, contact the repository owner through GitHub.
+For collaboration, technical questions, or a project walkthrough, contact me on Telegram: [@Nuar010](https://t.me/Nuar010).
   
